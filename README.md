@@ -1,7 +1,7 @@
 # CoinChanger
 
 # Cash
-![Coin Pic](Images\coins.jpg)
+![Coin Pic](https://github.com/CodeBiplove/GreedyCash/blob/c3e035bab9167287a7b9e3cddf422d17e7dabf6f/Images/coins.jpg)
 
 ## Problem to Solve
 Suppose you work at a store and a customer gives you $1.00 (100 cents) for candy that costs $0.50 (50 cents). You’ll need to pay them their “change,” the amount leftover after paying for the cost of the candy. When making change, odds are you want to minimize the number of coins you’re dispensing for each customer, lest you run out (or annoy the customer!). 
